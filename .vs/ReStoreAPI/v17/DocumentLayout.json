@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\entities\\orderaggergate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:entities\\orderaggergate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\extension\\orderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:extension\\orderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\entities\\orderaggergate\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:entities\\orderaggergate\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\extension\\basketextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:extension\\basketextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\data\\migrations\\20240415154031_orderentityadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:data\\migrations\\20240415154031_orderentityadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\entities\\orderaggergate\\productitemordered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:entities\\orderaggergate\\productitemordered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\entities\\useraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:entities\\useraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\entities\\orderaggergate\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:entities\\orderaggergate\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\entities\\orderaggergate\\shippingaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:entities\\orderaggergate\\shippingaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\controllers\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:controllers\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|c:\\users\\kxight\\source\\repos\\restoreapi\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F5BCE7-5A50-4C55-B944-C5AB792B6AC2}|ReStoreAPI.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Extension\\OrderExtensions.cs",
+              "RelativeDocumentMoniker": "Extension\\OrderExtensions.cs",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Extension\\OrderExtensions.cs",
+              "RelativeToolTip": "Extension\\OrderExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:37:15.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderitemDto.cs",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\DTOs\\OrderitemDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\OrderitemDto.cs",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\DTOs\\OrderitemDto.cs",
+              "RelativeToolTip": "DTOs\\OrderitemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:33:07.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "DTOs\\OrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:32:30.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\DTOs\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateOrderDto.cs",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\DTOs\\CreateOrderDto.cs",
+              "RelativeToolTip": "DTOs\\CreateOrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:50:36.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAIwFwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:41:43.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240415154031_OrderEntityAdded.cs",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Data\\Migrations\\20240415154031_OrderEntityAdded.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240415154031_OrderEntityAdded.cs",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Data\\Migrations\\20240415154031_OrderEntityAdded.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240415154031_OrderEntityAdded.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:40:34.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Entities\\Role.cs",
+              "RelativeToolTip": "Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:15:38.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserAddress.cs",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Entities\\UserAddress.cs",
+              "RelativeDocumentMoniker": "Entities\\UserAddress.cs",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Entities\\UserAddress.cs",
+              "RelativeToolTip": "Entities\\UserAddress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:12:21.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Data\\StoreContext.cs",
+              "RelativeDocumentMoniker": "Data\\StoreContext.cs",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Data\\StoreContext.cs",
+              "RelativeToolTip": "Data\\StoreContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:10:48.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Entities\\OrderAggergate\\Order.cs",
+              "RelativeDocumentMoniker": "Entities\\OrderAggergate\\Order.cs",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Entities\\OrderAggergate\\Order.cs",
+              "RelativeToolTip": "Entities\\OrderAggergate\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:05:31.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Entities\\OrderAggergate\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Entities\\OrderAggergate\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Entities\\OrderAggergate\\OrderItem.cs",
+              "RelativeToolTip": "Entities\\OrderAggergate\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:03:43.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Entities\\OrderAggergate\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Entities\\OrderAggergate\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Entities\\OrderAggergate\\OrderStatus.cs",
+              "RelativeToolTip": "Entities\\OrderAggergate\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:01:53.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductItemOrdered.cs",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Entities\\OrderAggergate\\ProductItemOrdered.cs",
+              "RelativeDocumentMoniker": "Entities\\OrderAggergate\\ProductItemOrdered.cs",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Entities\\OrderAggergate\\ProductItemOrdered.cs",
+              "RelativeToolTip": "Entities\\OrderAggergate\\ProductItemOrdered.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA0wAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:58:49.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ShippingAddress.cs",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Entities\\OrderAggergate\\ShippingAddress.cs",
+              "RelativeDocumentMoniker": "Entities\\OrderAggergate\\ShippingAddress.cs",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Entities\\OrderAggergate\\ShippingAddress.cs",
+              "RelativeToolTip": "Entities\\OrderAggergate\\ShippingAddress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:58:18.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Entities\\Address.cs",
+              "RelativeDocumentMoniker": "Entities\\Address.cs",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Entities\\Address.cs",
+              "RelativeToolTip": "Entities\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:54:15.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:09:15.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BasketExtension.cs",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Extension\\BasketExtension.cs",
+              "RelativeDocumentMoniker": "Extension\\BasketExtension.cs",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Extension\\BasketExtension.cs",
+              "RelativeToolTip": "Extension\\BasketExtension.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA1wB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:04:35.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "Controllers\\BasketController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowDEAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T16:25:47.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-02T23:03:36.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAADvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-02T15:13:37.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "DTOs\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:51:42.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAnwCEAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:51:32.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:46:22.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Controllers\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Controllers\\RegisterDto.cs",
+              "RelativeToolTip": "Controllers\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:39:03.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:34:35.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwFQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:30:40.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\KxIGHT\\source\\repos\\ReStoreAPI\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Data\\DbInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:18:04.698Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
